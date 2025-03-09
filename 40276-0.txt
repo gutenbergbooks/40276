@@ -1,39 +1,4 @@
-The Project Gutenberg EBook of Stories of Invention, by Edward E. Hale
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: Stories of Invention
-       Told by Inventors and their Friends
-
-Author: Edward E. Hale
-
-Release Date: July 19, 2012 [EBook #40276]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK STORIES OF INVENTION ***
-
-
-
-
-Produced by Chris Curnow and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
-
-
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 40276 ***
 
   STORIES OF INVENTION
 
@@ -98,7 +63,7 @@ what this "other book" shall be.
 
 It is indeed, of course, almost the first thing to be asked that boys
 and girls shall learn to find out for themselves what they want, and to
-rummage in catalogues, indexes, and encyclopaedias for the books which
+rummage in catalogues, indexes, and encyclopædias for the books which
 will best answer their necessities. Mr. Emerson's rule is, "Read in the
 line of your genius." And the young man or maiden who can find out, in
 early life, what the line of his or her genius is, has every reason to
@@ -468,7 +433,7 @@ it is to owe to them and to theirs."
 
 "I think Blanche had better write it--in a ballad," said Hector,
 laughing. "It shall be an old crone spinning; and as she turns her wheel
-she shall describe the AEtna Factory at Watertown."
+she shall describe the Ætna Factory at Watertown."
 
 "There shall be a _refrain_," said Wallace,--
 
@@ -584,8 +549,8 @@ you?"
 It would seem as if, perhaps, Uncle Fritz had led the conversation in
 the direction it had taken. At least it proved that, all together on the
 rolling book-rack which Mr. Perkins gave him, were the account of
-Archimedes in the Cyclopaedia Britannica, the account in the French
-Universal Biography, the life in La Rousse's Cyclopaedia, Plutarch's
+Archimedes in the Cyclopædia Britannica, the account in the French
+Universal Biography, the life in La Rousse's Cyclopædia, Plutarch's
 Lives, and a volume of Livy in the Latin. From these together, Uncle
 Fritz, and the boys and girls whom he selected, made out this little
 history of Archimedes.
@@ -629,7 +594,7 @@ the Siege of Syracuse;" "Burning Mirror;" "Machines moved by Air and
 Water;" and "Material Sphere."
 
 As to the story of the bath-tub, Uncle Fritz gave to Hector to read the
-account as abridged in the "Cyclopaedia Britannica."
+account as abridged in the "Cyclopædia Britannica."
 
 "Hiero had set him to discover whether or not the gold which he had
 given to an artist to work into a crown for him had been mixed with a
@@ -640,7 +605,7 @@ of alloy could be measured by putting the crown and an equal weight of
 gold separately into a vessel filled with water, and observing the
 difference of overflow. He was so overjoyed when this happy thought
 struck him that he ran home without his clothes, shouting, 'I have found
-it, I have found it,'--[Greek: Eureka, Eureka.]
+it, I have found it,'--[Greek: Eurêka, Eurêka.]
 
 "This word has been chosen by the State of California for its motto."
 
@@ -705,7 +670,7 @@ city. At that time Syracuse was, according to Cicero, "the largest and
 noblest of the Greek cities." It was in Sicily; but, having been built
 by colonists from Greece, who still spoke the Greek language, Cicero
 speaks of it among Greek cities, as he would have spoken of Thurii, or
-Sybaris, or the cities of "Magna Graecia,"--"great Greece," as they
+Sybaris, or the cities of "Magna Græcia,"--"great Greece," as they
 called the Greek settlements in southern Italy. In the Second Punic War
 Syracuse took sides against Rome with the Carthaginians, though her old
 king, Hiero, had been a firm ally of the Romans. The most interesting
@@ -1047,7 +1012,7 @@ signal honors."
 Archimedes, as has been said, had asked that his monument might be a
 cylinder bearing a sphere, in commemoration of his discovery of the
 proportion between a cylinder and a sphere of the same diameter. A
-century and a half after, when Cicero was quaestor of Sicily, he found
+century and a half after, when Cicero was quæstor of Sicily, he found
 this monument, neglected, forgotten, and covered with a rank growth of
 thistles and other weeds.
 
@@ -1095,7 +1060,7 @@ say how many good things were lost to the world by the pig-headedness
 which discouraged new inventions. It is marvellous to think what
 progress single men made, who had to begin almost at the beginning, and
 learn for themselves what every intelligent boy or girl now finds ready
-for him in the Cyclopaedia. It is very clear that the same beginnings
+for him in the Cyclopædia. It is very clear that the same beginnings
 were made again and again by some of the early inventors. Then, what
 they learned had been almost forgotten. There was no careful record of
 their experiments, or, if any, it was in one manuscript, and that was
@@ -1356,7 +1321,7 @@ Seas. But Physical Figurations are far more strange: for by that may be
 framed Perspects and Looking-glasses, that one thing shall appear to be
 many, as one man shall appear to be a whole Army, and one Sun or Moon
 shall seem divers. Also perspects may be so framed, that things far off
-shall seem most nigh unto us: with one of these did _Julius Caesar_ from
+shall seem most nigh unto us: with one of these did _Julius Cæsar_ from
 the Sea coasts in _France_ marke and observe the situation of the
 Castles in _England_. Bodies may also be so framed, that the greatest
 things shall appear to be the least, the highest lowest, the most secret
@@ -2406,7 +2371,7 @@ things, he arranged that for one afternoon they should read about
 BERNARD PALISSY THE POTTER.
 
 Bernard Palissy was born, about 1510, in the little town of Biron, in
-Perigord, France. He became not only a great artist, but a learned
+Périgord, France. He became not only a great artist, but a learned
 physician, and a writer of merit.
 
 Born of poor parents of the working-class, he had to learn some trade,
@@ -2797,7 +2762,7 @@ and his reputation established forever.
 
 His life henceforth was not free from events, but these were not
 connected with his invention. His fame came to the knowledge of the
-queen mother Catherine de Medicis; for Francis I. was no longer living,
+queen mother Catherine de Médicis; for Francis I. was no longer living,
 and Charles IX. had succeeded Francis II. upon the throne. He was
 summoned to Court, and employed to build grottos, decorated with his
 designs, by personages of distinction,--one especially for the queen
@@ -3296,7 +3261,7 @@ the musical glasses."
 it is so. John, look and see what year 'The Vicar of Wakefield' was
 written in."
 
-John turned to the Cyclopaedia, and it proved that Goldsmith wrote that
+John turned to the Cyclopædia, and it proved that Goldsmith wrote that
 book in 1766.
 
 "And you see," said Uncle Fritz, "that it was in 1762 that Franklin made
@@ -3309,12 +3274,12 @@ in England,--and that Goldsmith knew about Dr. Franklin's modification.
 touched. But they must have known a great many of the same people.
 Franklin was all mixed up with the Grub Street people."
 
-Meanwhile John was following up the matter in the Cyclopaedia. But he did
+Meanwhile John was following up the matter in the Cyclopædia. But he did
 not find "Armonica." Uncle Fritz bade him try in the "H" volume; and
 there, sure enough, was "Harmonica," with quite a little history of the
 invention. Mr. Puckeridge's fascinating name is there tamed down to
 Pochrich, probably by some German translator. Dr. Franklin's instrument
-is described, and the Cyclopaedia man adds:--
+is described, and the Cyclopædia man adds:--
 
 "From the effect which it was supposed to have upon the nervous system,
 it has been suggested that the fingers should not be allowed to come in
@@ -3843,7 +3808,7 @@ DUBLIN CASTLE, Nov. 17, 1796.
 
 Of his offer to establish a communication from the coast of Cork to
 Dublin, at _his own expense_, no notice was taken. "He had, as was known
-to Government, expended L500 of his own money; as much more would have
+to Government, expended £500 of his own money; as much more would have
 erected a temporary establishment for a year to Cork. Thus the utility
 of this invention might have been tried, and the most prudent government
 upon earth could not have accused itself of extravagance in being
@@ -4133,7 +4098,7 @@ Tartary.
        *       *       *       *       *
 
 All this detail about Mr. Edgeworth's telegraph resulted in much search
-in the older encyclopaedias. Quite full accounts were found, by the young
+in the older encyclopædias. Quite full accounts were found, by the young
 people, of his system, and of the French system afterwards employed, and
 worked in France until the electric telegraph made all such inventions
 unnecessary.
@@ -4159,7 +4124,7 @@ employ was a huge hollow wheel, made very light, withinside of which, in
 a barrel of six feet diameter, a man should walk. Whilst he stepped
 thirty inches, the circumference of the large wheel, or rather wheels,
 would revolve five feet on the ground; and as the machinery was to roll
-on planks and on a plane somewhat inclined, when once the _vis inertiae_
+on planks and on a plane somewhat inclined, when once the _vis inertiæ_
 of the machine should be overcome, it would carry on the man within it
 as fast as he could possibly walk. I had provided means of regulating
 the motion, so that the wheel should not run away with its master. I had
@@ -4595,7 +4560,7 @@ turned by the machinery itself with perfect regularity. But there was an
 objection to this method. Water is converted into vapor as soon as its
 elasticity is sufficient to overcome the weight of the air which keeps
 it down. Under the ordinary pressure of the atmosphere water acquires
-this necessary elasticity at 212 deg.; but as the steam in the digester was
+this necessary elasticity at 212°; but as the steam in the digester was
 prevented from escaping, it acquired increased heat, and by consequence
 increased elasticity. Hence it was that the steam which issued from the
 digester was not only able to support the piston and the air which
@@ -4665,7 +4630,7 @@ quantity of steam used in every stroke of the engine. He was astonished
 to discover that a _small_ quantity of water in the form of steam heated
 a large quantity of cold water injected into the cylinder for the
 purpose of cooling it; and upon further examination he ascertained that
-steam heated six times its weight of cold water to 212 deg., which was the
+steam heated six times its weight of cold water to 212°, which was the
 temperature of the steam itself. "Being struck with this remarkable
 fact," says Watt, "and not understanding the reason of it, I mentioned
 it to my friend Dr. Black, who then explained to me his doctrine of
@@ -4696,11 +4661,11 @@ came to the conclusion that to make a perfect steam-engine it was
 necessary that _the cylinder should be always as hot as the steam that
 entered it_; but it was equally necessary that the steam should be
 condensed when the piston descended, nay, that it should be cooled down
-below 100 deg., or a considerable amount of vapor would be given off, which
+below 100°, or a considerable amount of vapor would be given off, which
 would resist the descent of the piston, and diminish the power of the
 engine. Thus the cylinder was never to be at a less temperature than
-212 deg., and yet at each descent of the piston it was to be less than
-100 deg.,--conditions which, on the very face of them, seemed to be wholly
+212°, and yet at each descent of the piston it was to be less than
+100°,--conditions which, on the very face of them, seemed to be wholly
 incompatible.
 
 Though still occupied with his inquiries and experiments as to steam,
@@ -5178,7 +5143,7 @@ the last finish of its inventor.
 
 In this list of failures, from proposing to do what the instrument they
 employed was incapable of performing, we do not hesitate to include
-Savery, Papin, Jonathan Hulls, Perier, the Marquis de Jouffroy, and all
+Savery, Papin, Jonathan Hulls, Périer, the Marquis de Jouffroy, and all
 the other names of earlier date than 1786, whom the jealousy of the
 French and English nations have drawn from oblivion for the purpose of
 contesting the priority of Fulton's claims. The only competitor, whom
@@ -5274,7 +5239,7 @@ the apparent want of success which had attended the experiments of
 Symington[12] led him to doubt the correctness of his original views.
 
 That such doubt should be entirely removed, he had recourse to a series
-of experiments upon a small scale. These were performed at Plombieres, a
+of experiments upon a small scale. These were performed at Plombières, a
 French watering-place, where he spent the summer of 1802. In these
 experiments the superiority of the paddle-wheel over every other method
 of propulsion that had yet been proposed, was fully established. His
@@ -5993,7 +5958,7 @@ train of wagons on the opening day.
 
 A great concourse of people assembled on the occasion. Some came from
 Newcastle and Durham, many from the Aucklands, while Darlington held a
-general holiday and turned out all its population. To give _eclat_ to
+general holiday and turned out all its population. To give _éclat_ to
 the opening, the directors of the company issued a programme of the
 proceedings, intimating the times at which the procession of wagons
 would pass certain points along the line. The proprietors assembled as
@@ -6294,7 +6259,7 @@ The "Perseverance" of Mr. Burstall was found unable to move at more than
 five or six miles an hour, and it was withdrawn from the contest at an
 early period. The "Rocket" was thus the only engine that had performed,
 and more than performed, all the stipulated conditions; and it was
-declared to be entitled to the prize of L500, which was awarded to the
+declared to be entitled to the prize of £500, which was awarded to the
 Messrs. Stephenson and Booth[20] accordingly. And farther to show that
 the engine had been working quite within its powers, George Stephenson
 ordered it to be brought upon the ground and detached from all
@@ -7163,7 +7128,7 @@ the Scottish Society of Arts. The performance of this active little
 machine was so gratifying to the Society, that they requested me to
 construct one of such power as to enable four or six persons to be
 conveyed along the ordinary roads. The members of the Society, in their
-individual capacity, subscribed L60, which they placed in my hands, as
+individual capacity, subscribed £60, which they placed in my hands, as
 the means of carrying out their project.
 
 I accordingly set to work at once. I had the heavy parts of the engine
@@ -7296,7 +7261,7 @@ Railway Companies.
 The Great Western Railway Company invited us to tender for twenty of
 their very ponderous engines. They proposed a very tempting condition of
 the contract. It was that if, after a month's trial of the locomotives,
-their working proved satisfactory, a premium of L100 was to be added to
+their working proved satisfactory, a premium of £100 was to be added to
 the price of each engine and tender. The locomotives were made and
 delivered; they ran the stipulated number of test miles between London
 and Bristol in a perfectly satisfactory manner; and we not only received
@@ -7505,7 +7470,7 @@ instruments. I began again my investigations on the sun and the moon,
 and made some original discoveries.
 
 It is time to come to an end of my recollections. I have endeavored to
-give a brief _resume_ of my life and labors. I hope they may prove
+give a brief _résumé_ of my life and labors. I hope they may prove
 interesting as well as useful to others. Thanks to a good constitution
 and a frame invigorated by work, I continue to lead, with my dear wife,
 a happy life.
@@ -7527,7 +7492,7 @@ it proved, the last for the winter.
 
 They had gone to the pumping-station of the waterworks, and had seen the
 noiseless work of the great steam-engine there. They had gone to the
-AEtna Mills at Watertown, and with the eye of the flesh had seen "rovers"
+Ætna Mills at Watertown, and with the eye of the flesh had seen "rovers"
 and shuttles, and had been taught what "slobbers" are. They had gone to
 Waltham, and had been taught something of the marvellous skill and
 delicacy expended on the manufacture of watches. They had gone to Rand
@@ -7563,18 +7528,18 @@ read from a Life of Sir Henry Bessemer:--
 
 "Prior to this invention the entire production of cast steel in Great
 Britain was only about fifty thousand tons annually; and its average
-price, which ranged from L50 to L600, prohibited its use for many of the
+price, which ranged from £50 to £600, prohibited its use for many of the
 purposes to which it is now universally applied. After the invention, in
 the year 1877, the Bessemer steel produced in Great Britain alone
 amounted to 750,000 tons, or fifteen times the total of the former
-method of manufacture, while the selling price averaged only L10 per
+method of manufacture, while the selling price averaged only £10 per
 ton, and the coal consumed in producing it was less by 3,500,000 tons
 than would have been required in order to make the same quality of
 steel by the old, or Sheffield, process. The total reduction of cost is
-equal to about L30,000,000 sterling upon the quantity manufactured in
+equal to about £30,000,000 sterling upon the quantity manufactured in
 England during the year."
 
-The same book goes on to show that in other nations L20,000,000 worth of
+The same book goes on to show that in other nations £20,000,000 worth of
 Bessemer steel was produced in the same year.
 
 "You see," said Uncle Fritz, "that here is an addition to the real
@@ -7720,7 +7685,7 @@ stamps could be used a second and third time; and by thus utilizing the
 expensive stamps on old deeds of partnerships that were dissolved, or
 leases that were expired, the public revenue lost thousands of pounds
 every year. Sir Charles Persley, of the Stamp Office, told Sir Henry
-Bessemer that the Government were probably defrauded of L100,000 per
+Bessemer that the Government were probably defrauded of £100,000 per
 annum in that way. The young inventor at once set to work, for the
 express purpose of devising a stamp that could not be used twice. His
 first discovery was a mode by which he could have reproduced easily and
@@ -7773,7 +7738,7 @@ stamp removed all the objections to the old one. So pleased was Sir
 Charles with it that he recommended it to Lord Althorp, and it was soon
 adopted by the Stamp Office. At the same time Sir Henry was asked
 whether he would be satisfied with the position of Superintendent of
-Stamps with L500 or L600 per annum, as compensation for his invention,
+Stamps with £500 or £600 per annum, as compensation for his invention,
 instead of a sum of money from the treasury. This appointment he gladly
 agreed to accept; for, being engaged to be married at the time, he
 thought his future position in life was settled. Shortly afterwards he
@@ -7864,7 +7829,7 @@ worked it entirely himself. By this means he produced the required
 article at 4_s._ a pound. He then sent out a traveller with samples of
 it, and the first order he got was at 80_s._ a pound. Being thus fully
 assured of success, he communicated his plans to a friend, who agreed to
-put L10,000 into the business, as a sleeping partner, in order to work
+put £10,000 into the business, as a sleeping partner, in order to work
 the new manufacture on a larger scale. The entire working of the concern
 was left in the hands of Sir Henry, who accordingly proceeded to enlarge
 his means of production. To insure secrecy, he made plans of all the
@@ -8067,8 +8032,8 @@ ordered from Sweden some months previously. When this iron, which was
 free from phosphorus, was put into the converter, it yielded, in the
 very first experiment, a metal of so high a quality that he at once
 abandoned his efforts to dephosphorize ordinary iron. The Sheffield
-manufacturers were then selling steel at L60 a ton; and he thought that
-as he could buy pig iron at L7 a ton, and by blowing it a few minutes in
+manufacturers were then selling steel at £60 a ton; and he thought that
+as he could buy pig iron at £7 a ton, and by blowing it a few minutes in
 the converter could make it into what was being sold at such a high
 price, the problem was solved.
 
@@ -8164,7 +8129,7 @@ volume for 1876.
 
 The Bessemer process was now perfect. Nearly four years had elapsed
 since its conception and first application; and in addition to the
-necessary labor and anxiety he had experienced, no less than L20,000
+necessary labor and anxiety he had experienced, no less than £20,000
 had been expended in making experiments that were necessary to complete
 its success. It only remained to bring the process into general use.
 
@@ -8235,7 +8200,7 @@ would not be here to-day but for that ingenious and long-suffering man."
 
 "Surely not," said Uncle Fritz, laughing. "I saw your water-proof in
 your shawl-strap. I know your mamma well enough to know that you would
-never have been permitted to come so far from home without that aegis, or
+never have been permitted to come so far from home without that ægis, or
 without those trig, pretty overshoes. You owe waterproof and overshoes
 both to the steady perseverance of Goodyear and to the loyal help of his
 wife and daughters. Some day you must read Mr. Webster's eulogy on him
@@ -8482,7 +8447,7 @@ seven hundred pounds.
 
 [3] Quoted in Fabricius's Greek fragments.
 
-[4] Encyclopaedia Americana: art. "Roger Bacon."
+[4] Encyclopædia Americana: art. "Roger Bacon."
 
 [5] See "Stories of Adventure."
 
@@ -8552,7 +8517,7 @@ saving in 1885 is enormously greater.
 experimenting in projectiles when his attention was turned to the
 manufacture of iron.
 
-[24] In Gruener's text-book on steel, he says: "In its properties, as
+[24] In Grüner's text-book on steel, he says: "In its properties, as
 well as in its manufacture, steel is comprised between the limits of
 cast and wrought iron. It cannot even be said where steel begins or
 ends. It is a series which begins with the most impure black pig iron,
@@ -8676,7 +8641,7 @@ INDEX.
 
   Dixon, John, 205
 
-  Droz, Francois Xavier Joseph, 102
+  Droz, François Xavier Joseph, 102
 
 
   Edgeworth, Richard Lovell, 119
@@ -8719,7 +8684,7 @@ INDEX.
 
   Greene, Mrs. General, 227, 229
 
-  Gruener, 279
+  Grüner, 279
 
   Gun Factories, 275
 
@@ -8806,11 +8771,11 @@ INDEX.
 
   Patricroft, 256
 
-  Perier, 176
+  Périer, 176
 
   Persley, Sir Charles, 266
 
-  Plombieres, 180
+  Plombières, 180
 
   Pope Clement VII., 62
 
@@ -9243,366 +9208,4 @@ Square 18mo. Paper, 30 cents; cloth, $1.00.
 
 End of the Project Gutenberg EBook of Stories of Invention, by Edward E. Hale
 
-*** END OF THIS PROJECT GUTENBERG EBOOK STORIES OF INVENTION ***
-
-***** This file should be named 40276.txt or 40276.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/0/2/7/40276/
-
-Produced by Chris Curnow and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 40276 ***
